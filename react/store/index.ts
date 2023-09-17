@@ -8,7 +8,7 @@ const store:Store = createStore(
     initialState,
     undefined,
     {
-        storageItems:['counter']
+        storageItems:['counter','dark']
     }
 );
 
