@@ -1,3 +1,7 @@
+# What is Redux-Cross-Tabs?
+It is a Redux framework that helps to save states in browser storage and synchronize them in different browser tabs.
+<image src="https://github.com/abasb75/redux-cross-tabs/blob/main/assets/multi-tab-screen.gif" alt="redux-cross-tabs">
+
 # Installation :
 
 install with command line:
